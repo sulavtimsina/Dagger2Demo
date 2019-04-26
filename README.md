@@ -19,7 +19,8 @@ com.sulav.dagger2drycodedemo/
 ├── DaggerApplication.java
 ├── MainActivity.java
 
-AppComponent.java
+**AppComponent.java**
+
 ```java
 package com.sulav.dagger2drycodedemo;
 
